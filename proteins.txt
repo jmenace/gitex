@@ -1,0 +1,3 @@
+lysozyme	human	lsh5420
+lysozyme	rat	dhp450
+chinase		rat	lmd490
