@@ -3,3 +3,4 @@ lysozyme	rat	dhp450
 chinase		rat	lmd490
 pfkm		mouse	pfkm3445
 PFKM		Human	PFKM5747
+this is clearly a mistake
